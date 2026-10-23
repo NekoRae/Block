@@ -1,4 +1,4 @@
-||adblock.turtlecute.org##.adbox.banner_ads.adsbox
-||adblock.turtlecute.org##.textads
-||/pagead.js$domain=adblock.turtlecute.org
-||/widget/ads.
+adblock.turtlecute.org##.adbox.banner_ads.adsbox
+adblock.turtlecute.org##.textads
+||adblock.turtlecute.org/pagead.js$script
+||adblock.turtlecute.org/widget/ads.
